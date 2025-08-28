@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+psutil
+# Add any other dependencies here
